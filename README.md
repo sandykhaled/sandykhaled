@@ -29,18 +29,10 @@ Here are some ideas to get you started:
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about **Laravel & PHP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/sandykhaled-69b8791b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandy-khaled-69b8791b4" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/eyad.hamza.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eyad.hamza.1/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC3Xs2OtH-4lLIGJj15RwbGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eyad hamza - π's space" height="30" width="40" /></a>
-</p>
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sandykhaled" target="_blank"><img src="https://img.shields.io/badge/Sandy%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://web.telegram.org/k/#@sandykhaled1203" target="_blank"><img src="https://img.shields.io/badge/-Sandy%20Khaled-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
