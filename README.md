@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![API](https://img.shields.io/badge/-Api%20-05122A?style=flat&logo=api)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman%20-05122A?style=flat&logo=postman)&nbsp;
 
 
 
