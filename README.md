@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sandy-khaled-584b31224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandy-khaled-69b8791b4" height="30" width="40" /></a>
-<a href="https://web.telegram.org/k/#@sandykhaled1203" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sandy-khaled-69b8791b4" height="30" width="40" /></a>
+<p align="center">
+<a href="mailto:sandykhaled1203@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/sandy-khaled-584b31224/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 
 
 ### 🛠 &nbsp;Tech Stack
