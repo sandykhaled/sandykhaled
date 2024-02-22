@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
-<a href="" title="PHP"><img src="https://img.shields.io/badge/Php-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Php"></a>
+<p align="center">
 
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman%20-05122A?style=flat&logo=postman)&nbsp;
 
 
-
+</p>
