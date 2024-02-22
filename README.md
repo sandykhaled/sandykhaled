@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp;Tech Stack
+<a href="" title="PHP"><img src="https://img.shields.io/badge/Php-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Php"></a>
+
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
