@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/eyad-hamza-69b8791b4](https://www.linkedin.com/in/sandy-khaled-584b31224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandy-khaled-69b8791b4" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/sandy-khaled-584b31224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandy-khaled-69b8791b4" height="30" width="40" /></a>
 <a href="https://web.telegram.org/k/#@sandykhaled1203" target="_blank"><img src="https://img.shields.io/badge/-Sandy%20Khaled-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
