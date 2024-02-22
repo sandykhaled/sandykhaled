@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-[![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)]&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -51,10 +51,4 @@ Here are some ideas to get you started:
 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
 
